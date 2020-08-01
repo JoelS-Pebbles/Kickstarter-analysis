@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-Louise wants to know how different campaings compared to each other with raising money regarding their launch date and funding goals.
+Louise wants to know how different campaigns compared to each other with raising money regarding their launch date and funding goals.
 I am turning data into words for Louise so we can tell her what was effective and suggestions for future campaigns. 
 I created some visuals based on laucnh date and funding goals so she can better understand the data and remeber what was successful and not so successful. 
 
