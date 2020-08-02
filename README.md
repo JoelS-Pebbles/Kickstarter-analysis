@@ -33,7 +33,6 @@ The higher success rate she has, the lower her failure rate is and vice versa.
 There are were no plays that were canceled. 
 Below is the graph that I made:
 ![Outcomes_vs_Goals] (https://github.com/JoelS-Pebbles/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
-https://github.com/JoelS-Pebbles/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png
 
 ### Challenges and Difficulties Encountered
 The only difficulty I encoutnered was a mistake that I made with one of my formluas. 
