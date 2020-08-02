@@ -19,7 +19,6 @@ According to the graph, it looks like the number of successful and failed theate
 The number of canceled campaigns does not seem to have any correlation with the number of successful or failed theater campaigns.
 Below is the link to the graph that I made:
 ![Theater_Outcomes_vs_Launch.png](https://github.com/JoelS-Pebbles/Kickstarter-analysis/blob/master/Theater_Outcomes_vs_Launch.png)
-
 ### Analysis of Outcomes Based on Goals
 There is a strong negative correlation between percentage successful and percentage failed for plays raising money. 
 Louise has a strong success rate with play campaigns that have goals of less than $5,000. 
@@ -33,7 +32,6 @@ The higher success rate she has, the lower her failure rate is and vice versa.
 There are were no plays that were canceled. 
 Below is the graph that I made:
 ![Outcomes_vs_Goals](https://github.com/JoelS-Pebbles/Kickstarter-analysis/blob/master/Outcomes_vs_Goals.png)
-
 ### Challenges and Difficulties Encountered
 The only difficulty I encoutnered was a mistake that I made with one of my formluas. 
 I was counting campaigns that had a goal of $1,000 twice so when i doubled checked if my numbers matched, they did not. 
